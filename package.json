@@ -1,0 +1,12 @@
+{
+  "name": "wavread",
+  "description": "Used to retrieve information of .wav files",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Neumann Ivan",
+  "keywords": ["audio", "wav", "binary", "meta"],
+  "repository": {"type": "git", "url": "https://github.com/hypotenuse/wavread.git"},
+  "homepage": "https://github.com/hypotenuse/wavread",
+  "dependencies": {"chalk": "^2.4.2", "minimist": "^1.2.0"},
+  "main": "index.js"
+}
