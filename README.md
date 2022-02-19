@@ -1,5 +1,5 @@
 ### wavread lib
-**wavread** is a tiny-lib for Node.js that reads binary data of **Waveform Audio File Format (WAVE) (.wav extension)** file and **gives base information** of it. **Note: Lib won't retrieve all information stored in wav**
+**wavread** is a tiny-lib for Node.js that reads binary data of **Waveform Audio File Format (WAVE) (.wav extension)** file and **gives meta information** of it. **Note: Lib won't retrieve all information stored in wav**
 
 ### Usage via CLI
 1) `npm install wavread`
