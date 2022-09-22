@@ -1,4 +1,4 @@
-A tiny-lib for Node.js. Reads binary data of **(.wav)** file and **gives meta information** of it
+Reads binary data of **(.wav)** file and **gives meta information** of it
 
 ### Usage via CLI
 1) `npm install wavread`
