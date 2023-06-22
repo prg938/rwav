@@ -1,4 +1,4 @@
-Reads binary data of **(.wav)** file and **gives technical information** of it
+Reads binary data of **.wav**-file
 
 ### Usage via CLI
 1) `npm install wavread`
